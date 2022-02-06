@@ -16,11 +16,11 @@ export default class Navbar extends Component {
           <a href="#projects" className="mr-5 hover:text-white">
             Projects
           </a>
-          <a href="#skills" className="mr-5 hover:text-white">
-            Skills
+          <a href="#resume" className="mr-5 hover:text-white">
+            Resume
           </a>
           <a href="#skills" className="mr-5 hover:text-white">
-            Resume
+            Skills
           </a>
         </nav>
         <a

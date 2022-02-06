@@ -13,18 +13,6 @@ class About extends Component {
                     <p className="mb-8 leading-relaxed">
                     I'm a motivated CS student with fundamental knowledge of software design, development and testing.I have a strong passion for building cool applications.Seeking to utilise my educational background with strong analytical,technical and programming skills to thrive as an entry level software developer.
                     </p>
-                    <div className="flex justify-center">
-                        <a
-                        href="#contact"
-                        className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
-                        View my resume
-                        </a>
-                        <a
-                        href="#projects"
-                        className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
-                        View my projects
-                        </a>
-                    </div>
                     </div>
                     <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
                     <img
